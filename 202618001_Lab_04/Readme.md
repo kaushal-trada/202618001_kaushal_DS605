@@ -1,5 +1,7 @@
 # Airbnb Price Prediction
 
+Deployed link: https://202618001kaushalds605-jdo4fn2zndms8vrekdlt6p.streamlit.app/
+
 ## Student Information
 
 - **Student ID:** 202618001
